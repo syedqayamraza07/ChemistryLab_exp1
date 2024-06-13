@@ -1,1 +1,0 @@
-# ChemistryLab_exp1
